@@ -1,3 +1,0 @@
-git > ssh 설정 멀티계정 좀더 확실하게 알아야함
-
-참고 site : https://webclub.tistory.com/category/Dev%20Environment/Git
